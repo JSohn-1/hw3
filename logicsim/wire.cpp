@@ -2,6 +2,7 @@
 #include <iostream>
 #include <string>
 #include <sstream>
+#include <cstdint>
 
 #include "wire.h"
 
